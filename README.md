@@ -1,6 +1,8 @@
 # Solutions of EVM Puzzles
 
-[Video Tutorial](https://youtu.be/Qp7HWY2O6-g)
+[Video Tutorial (Part 1)](https://youtu.be/Qp7HWY2O6-g)
+
+[Video Tutorial (Part 2)](https://youtu.be/pB_yIMmvltY)
 
 # EVM puzzles
 
